@@ -20,3 +20,9 @@ function contarParesImpares(numeros) {
 
     return contagem;
 }
+
+// Testes Exercício 4:
+console.log("\n=== EXERCÍCIO 4: Pares e Ímpares ===");
+console.log(contarParesImpares([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])); 
+console.log(contarParesImpares([2, 4, 6, 8])); 
+console.log(contarParesImpares([1, 3, 5, 7, 9])); 
